@@ -1,2 +1,1 @@
-# webphishingdetector
-### Website Phishing Detector
+# Phishing Website Detector

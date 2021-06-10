@@ -1,0 +1,12 @@
+[
+  {
+    "domain": "google.com", 
+    "url": "https://www.google.com",
+    "title": "Sign in - Google Accounts"
+  },
+  {
+    "domain": "accounts.google.com", 
+    "url": "https://accounts.google.com",
+    "title": "Welcome to Gmail"
+  }
+]
